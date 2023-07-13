@@ -6,7 +6,8 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "scripts": { "deploy": "ng build -sm -ec -bh /angular_task/ & ngh –no-silent"}
   },
   "private": true,
   "dependencies": {

@@ -10,7 +10,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { UserDetayComponent } from './user-detay/user-detay.component';
 import { UserspostsComponent } from './usersposts/usersposts.component';
 import { CommentComponent } from './comment/comment.component';
-import { NgxPaginationModule } from 'ngx-pagination';
+
 
 
 
